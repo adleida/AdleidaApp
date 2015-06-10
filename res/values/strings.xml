@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AdLeidaApp</string>
+    <string name="title_activity_adleida_main">AdleidaMain</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="goto_ad_page">进入广告页</string>
+    <string name="title_activity_ad_page">AdPageActivity</string>
+
+</resources>
